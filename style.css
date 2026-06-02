@@ -20,7 +20,7 @@
 }
 
 @media(max-width: 767px){
-    .posicao{
+    .posicao {
         top:50%;
     }
 }
